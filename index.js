@@ -10,7 +10,6 @@ function saludos5(){
     return data;
 }
 
-<<<<<<< HEAD
 function hola(){
     return true;
 }
@@ -31,9 +30,7 @@ function saludos5(){
     return true;
 }
 
-=======
 function saludos6(){
     let data = {data: 123, foot:"prueba"};
     return data;
 }
->>>>>>> feat2
