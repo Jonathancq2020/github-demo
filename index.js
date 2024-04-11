@@ -7,3 +7,7 @@ function hola(){
 function saludos(){
     return true;
 }
+
+function saludos(){
+    return true;
+}
